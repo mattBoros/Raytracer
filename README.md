@@ -11,4 +11,4 @@ Renderer renderer = new Renderer(new MultiObject()
 renderer.display();
 ```
 
-![](https://github.com/mattBoros/Raytracer/blob/master/example.png?raw=true)
+![Example](https://github.com/mattBoros/Raytracer/blob/master/example.png?raw=true)
