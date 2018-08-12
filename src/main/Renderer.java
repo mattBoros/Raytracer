@@ -20,7 +20,7 @@ public class Renderer {
     public static final float REAL_WIDTH = 6;
     public static final float REAL_HEIGHT = 6;
 
-    public static final int ACCURACY = 420;
+    public static final int ACCURACY = 415;
 
 
     public final Canvas canvas;
