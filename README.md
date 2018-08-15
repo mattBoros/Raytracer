@@ -12,3 +12,6 @@ renderer.display();
 ```
 
 ![Example](https://github.com/mattBoros/Raytracer/blob/master/example.png?raw=true)
+
+
+![Example2](https://github.com/mattBoros/Raytracer/blob/master/example2.png?raw=true)
