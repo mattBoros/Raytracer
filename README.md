@@ -15,3 +15,21 @@ renderer.display();
 
 
 ![Example2](https://github.com/mattBoros/Raytracer/blob/master/example2.png?raw=true)
+
+
+You can draw many objects. The following is a cube with a sphere cut out of the center.
+
+![Example5](https://github.com/mattBoros/Raytracer/blob/master/example5.png?raw=true)
+![Example6](https://github.com/mattBoros/Raytracer/blob/master/example6.png?raw=true)
+![Example7](https://github.com/mattBoros/Raytracer/blob/master/example7.png?raw=true)
+
+
+You can even draw three dimensional Mandelbrot fractals.
+
+
+![Example3](https://github.com/mattBoros/Raytracer/blob/master/example3.png?raw=true)
+
+
+![Example4](https://github.com/mattBoros/Raytracer/blob/master/example4.png?raw=true)
+
+
